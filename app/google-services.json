@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "753845155816",
+    "firebase_url": "https://ubiquitous-computing-2774f-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "ubiquitous-computing-2774f",
+    "storage_bucket": "ubiquitous-computing-2774f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:753845155816:android:8e8dcbc83490ee9325965d",
+        "android_client_info": {
+          "package_name": "com.example.assignment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlIzpI4zYtf55JxqEDKfVVoBhKF0NqfMc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
